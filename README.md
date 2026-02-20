@@ -1,9 +1,9 @@
 # RIFT-26: Money Muling Detection Engine 🛡️⛓️
 Team Cyber Kage:
-Rushikesh Kamble
-Jay Mehta
-Ayesha Aamir Sheikh
-Shraddha Nitin Limbekar
+Rushikesh Kamble|
+Jay Mehta|
+Ayesha Aamir Sheikh|
+Shraddha Nitin Limbekar|
 **Live Demo:** [rift26.netlify.app](https://rift-cyber-kage.netlify.app/) | **Backend API:** (https://rift-26-money-mule.onrender.com)
 
 ## What It Does
